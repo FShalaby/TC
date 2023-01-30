@@ -1,7 +1,7 @@
 # TC
 This is a Temperature Converter app that converts from either Fahrenheit to Celsius or the other way around
 
-![Uploading Screenshot 2023-01-30 at 12.30.57 PM.png…]()
+<img width="373" alt="Screenshot 2023-01-30 at 12 30 41 PM" src="https://user-images.githubusercontent.com/91975826/215551149-76554e64-8b60-4ff9-8b5c-5c461c101db7.png">
 
 <img width="373" alt="Screenshot 2023-01-30 at 12 30 41 PM" src="https://user-images.githubusercontent.com/91975826/215550959-dc25bc82-d2f4-4a00-8ebe-e5c27b0fe3f4.png">
 
